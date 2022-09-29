@@ -6,7 +6,7 @@ class App extends React.Component {
     super();
     this.state = 
     {
-      name: "Fuad",
+      name: "Adegoke Fuad ALIPHATIC",
       skill: "ReactJs"
     }
 
